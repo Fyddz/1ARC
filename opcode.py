@@ -217,5 +217,4 @@ def valueX(opcode):
 
 # Fonction qui va renvoyer la valeur d'un Y
 
-def valueY(opcode):
-    return int(hex(opcode)[4:5], 16)
+PUTE
